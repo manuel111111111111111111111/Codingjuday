@@ -1,0 +1,228 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>STOP JUDI ONLINE</title>
+  <link rel="stylesheet" href="index.css">
+</head>
+<body>
+
+  <!-- NAVBAR -->
+  <header class="nav">
+    <div class="brand">STOP JUDI ONLINE</div>
+    <nav class="nav-links">
+      <a href="#solusi">solusi &amp; bantuan</a>
+      <a href="#kontak">hubungi kami</a>
+      <a class="home" href="#">⌂</a>
+    </nav>
+  </header>
+
+  <!-- HERO -->
+  <main class="hero">
+    <h1>“BERHENTI JUDI ONLINE, MULAI HIDUP BARU”.</h1>
+    <p class="sub">“edukasi, motivasi, dan dukungan untuk lepas dari judol.”</p>
+    <a class="cta" href="#">mulai sekarang</a>
+  </main>
+
+  <!-- FOOTER -->
+  <footer>
+    <div class="f-wrap">
+      <p class="f-title">STOP JUDOL</p>
+      <p class="f-desc">STOP JUDOL adalah platform dan dukungan untuk lepas dari judi online</p>
+      <div class="f-links">
+        <a href="#tentang">Tentang</a><span>|</span>
+        <a href="#privasi">Privasi</a><span>|</span>
+        <a href="#kontak" id="kontak">Kontak</a>
+      </div>
+    </div>
+  </footer>
+
+  <!-- placeholder anchor -->
+  <section id="mulai"></section>
+  <section id="solusi"></section>
+  <section id="tentang"></section>
+  <section id="privasi"></section>
+
+  <!-- NAVBAR -->
+  <header class="nav">
+    <div class="brand">STOP JUDI ONLINE</div>
+    <nav class="nav-links">
+      <a href="#solusi">solusi &amp; bantuan</a>
+      <a href="#kontak">hubungi kami</a>
+      <a class="home" href="#">⌂</a>
+    </nav>
+  </header>
+
+  <!-- ARTIKEL -->
+  <main class="content">
+    <h2>Bahaya judol</h2>
+
+    <p><strong>*Kecanduan Judi Online</strong><br>
+    Kecanduan judi online muncul karena faktor ekonomi—keinginan mendapatkan uang dengan cepat—dan efek dopamine setelah menang yang mendorong ketagihan. Saat sudah kecanduan, pemain sulit berhenti dan bahkan tak menyadarinya, sering ditandai dengan penutupan atas kondisi finansial serta peningkatan utang, hingga nekat meminjam online <a href="#">pusiknas.polri.go.id</a>.</p>
+
+    <p><strong>*Efek Finansial dan Sosial</strong><br>
+    Judi online nyata-nyata memperparah kemiskinan. Data PPATK menyatakan bahwa sekitar 2,1 juta masyarakat miskin di Indonesia turut bermain judi online, dengan taruhan di bawah Rp100 ribu. Ini tentu berdampak negatif, karena uang yang seharusnya beredar di masyarakat malah mengalir ke bandar judi <a href="#">pusiknas.polri.go.id</a>.</p>
+
+    <p><strong>*Skala Transaksi Besar</strong><br>
+    Sejak 2017–2022, tercatat 156 juta transaksi judi online senilai Rp190 triliun. Hingga pertengahan 2023, angka ini meningkat menjadi sekitar Rp200 triliun <a href="#">pusiknas.polri.go.id</a>.</p>
+
+    <p><strong>*Tanggung Jawab Pemerintah dan Bansos</strong><br>
+    Pemerintah menyatakan bahwa masyarakat yang terjerat judi online—yang berimbas pada kemiskinan dan gangguan sosial—termasuk dalam tanggung jawab sosial dan bisa didata dalam DTKS untuk mendapat bantuan sosial dan pembinaan <a href="#">pusiknas.polri.go.id</a>.</p>
+
+    <p><strong>*Penolakan Bantuan bagi Pelaku Judi</strong><br>
+    Meskipun wacana bantuan sempat muncul, Presiden Joko Widodo secara tegas menyatakan tidak ada bantuan sosial bagi pelaku judi online <a href="#">pusiknas.polri.go.id</a>.</p>
+
+    <p><strong>*Peran Pusiknas</strong><br>
+    Artikel juga menjelaskan bahwa Pusiknas, di bawah Bareskrim Polri, berfungsi sebagai pusat informasi kriminal berbasis TIK, sesuai regulasi terbaru, dan merupakan salah satu upaya menanggulangi kejahatan termasuk imbas judi online <a href="#">pusiknas.polri.go.id</a>.</p>
+  </main>
+
+  <!-- CTA -->
+  <div class="cta-container">
+    <a href="#cerita" class="cta">Cerita Sukses</a>
+  </div>
+
+  <!-- FOOTER -->
+  <footer>
+    <div class="f-wrap">
+      <p class="f-title">STOP JUDOL</p>
+      <p class="f-desc">STOP JUDOL adalah platform dan dukungan untuk lepas dari judi online</p>
+      <div class="f-links">
+        <a href="#tentang">Tentang</a><span>|</span>
+        <a href="#privasi">Privasi</a><span>|</span>
+        <a href="#kontak">Kontak</a>
+      </div>
+    </div>
+  </footer>
+
+   <!-- Header -->
+    <header class="site-header">
+      <div class="container header-inner">
+        <a class="brand" href="#">STOP JUDI ONLINE</a>
+        <nav class="top-nav">
+          <a href="#">solusi &amp; bantuan</a>
+          <a href="#">hubungi kami</a>
+        </nav>
+      </div>
+    </header>
+  
+  <!-- Konten Utama -->
+    <main class="container">
+      <h1 class="page-title">Cerita sukses terlepas dari judi online</h1>
+
+      <article class="card">
+        <h2>Awal Ketagihan</h2>
+        <p>
+          Patrick Foster, mantan pemain kriket profesional dan lulusan Durham University, mulai berjudi saat kuliah.
+          Ia tertarik setelah meraih kemenangan kecil sekitar £250 (&plusmn;Rp5 juta) dengan taruhan £2. Sejak itu,
+          ketagihan berjudi mulai menggerogoti hidupnya.
+          <a class="ref" href="#" aria-label="Sumber BBC">BBC</a>
+        </p>
+      </article>
+
+      <article class="card">
+        <h2>Karier Hancur dan Awal Utang</h2>
+        <p>
+          Sebelum benar-benar menjadi guru, kariernya di dunia kriket berakhir akibat perilaku berjudi. Setelah
+          sebagai guru, ia terus berjudi, memenangkan £34,988 (&plusmn;Rp700 juta), tapi kemudian kehilangan semua
+          uangnya dalam waktu singkat—semakin memperparah kondisi finansialnya.
+          <a class="ref" href="#" aria-label="Sumber BBC">BBC</a>
+        </p>
+      </article>
+
+      <article class="card">
+        <h2>Tergeletar Utang Hingga Rp5 Miliar</h2>
+        <p>
+          Pada puncaknya, Patrick memiliki 76 akun taruhan online, 23 pinjaman aktif, dan utang judi sebesar sekitar
+          Rp5 miliar mencapai 1,13 orang. Dia hingga berusaha pura-pura dikejar pajak atau mengalami kecelakaan untuk
+          meminjam uang.
+          <a class="ref" href="#" aria-label="Sumber BBC">BBC</a>
+        </p>
+      </article>
+
+      <article class="card">
+        <h2>Titik Terendah dan Pemulihan</h2>
+        <p>
+          Merasa hidupnya telah runtuh setelah berhutang £50,000 pada final perlombaan kuda Cheltenham Gold Cup dan
+          kalah, ia sempat berpikir untuk bunuh diri. Namun, dorongan dari orang-orang yang menghubunginya menjadi titik
+          balik. Patrick akhirnya membuka diri kepada keluarga, masuk rehabilitasi, dan mendapatkan dukungan untuk
+          pemulihan.
+          <a class="ref" href="#" aria-label="Sumber BBC">BBC</a>
+        </p>
+      </article>
+
+      <article class="card">
+        <h2>Menjadi Saksi dan Membantu Orang Lain</h2>
+        <p>
+          Setelah rehabilitasi, Patrick bertanggung jawab dan menghubungi Asosiasi Pemain Kriket. Ia pun aktif menjadi
+          pembicara tentang pemulihan, edukasi sosial dan finansial. Ia kini aktif berbagi di banyak sekolah dan
+          organisasi, hingga menulis buku tentang pengalamannya. Ia juga bekerja di EPIC Risk Management untuk membantu
+          pencegahan kecanduan judi.
+          <a class="ref" href="#" aria-label="Sumber BBC">BBC</a>
+        </p>
+      </article>
+
+      <section class="cta">
+        <a class="btn" href="#">Langkah berhenti bermain judol</a>
+      </section>
+    </main>
+
+    <!-- Footer -->
+    <footer class="site-footer">
+      <div class="container">
+        <strong>STOP JUDOL</strong>
+        <p>STOP JUDOL adalah platform dan dukungan untuk lepas dari judi online</p>
+        <nav class="footer-nav">
+          <a href="#">Tentang</a>
+          <span class="sep">|</span>
+          <a href="#">Privasi</a>
+          <span class="sep">|</span>
+          <a href="#">Kontak</a>
+        </nav>
+      </div>
+    </footer>
+
+    <!-- NAVBAR -->
+  <header class="nav">
+    <div class="brand">STOP JUDI ONLINE</div>
+    <nav class="nav-links">
+      <a href="#solusi">solusi &amp; bantuan</a>
+      <a href="#kontak">hubungi kami</a>
+      <a class="home" href="#">⌂</a>
+    </nav>
+  </header>
+
+  <!-- CONTENT -->
+  <main class="content">
+    <h2>Cara berhenti dari judi online</h2>
+    <ol>
+      <li>Akui bahwa berjudi telah menjadi masalah serius.</li>
+      <li>Kemali pemicu yang mendorong keinginan berjudi.</li>
+      <li>Cari bantuan profesional (misalnya terapi CBT).</li>
+      <li>Kelola stres dengan cara sehat (meditasi, olahraga).</li>
+      <li>Bangun dukungan dari keluarga atau komunitas.</li>
+      <li>Hapus akses ke situs dan aplikasi judi.</li>
+      <li>Kelola keuangan: rencanakan anggaran, lunasi utang, mulai menabung.</li>
+      <li>Temukan aktivitas pengganti seperti hobi atau olahraga.</li>
+      <li>Lakukan refleksi diri terhadap perkembangan usaha.</li>
+      <li>Bersabar dan konsisten: hargai kemajuan kecil dan terus berusaha 
+        <a href="#">Digital Citizenship Indonesia</a>.
+      </li>
+    </ol>
+  </main>
+
+  <!-- FOOTER -->
+  <footer>
+    <div class="f-wrap">
+      <p class="f-title">STOP JUDOL</p>
+      <p class="f-desc">STOP JUDOL adalah platform dan dukungan untuk lepas dari judi online</p>
+      <div class="f-links">
+        <a href="#tentang">Tentang</a><span>|</span>
+        <a href="#privasi">Privasi</a><span>|</span>
+        <a href="#kontak">Kontak</a>
+      </div>
+    </div>
+  </footer>
+
+</body>
+</html>
